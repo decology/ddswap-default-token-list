@@ -1,6 +1,6 @@
 {
   "name": "ddswap-default-token-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The ddswap default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uniswap/default-token-list.git"
+    "url": "git+https://github.com/Decology/ddswap-default-token-list.git"
   },
   "keywords": [
     "ddswap",
