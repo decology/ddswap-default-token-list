@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Wrapped Ether",
+      "address": "0x837b567ae4390924a6bC1F0e55ee97904C15E3d1",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+    },
+    {
+      "name": "Meta-StarDream Along RainBow",
+      "address": "0xdc38a8732f236e8F3E993775F0a68b7126a67e3C",
+      "symbol": "DSME",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735/logo.png"
+    }
+  ]
